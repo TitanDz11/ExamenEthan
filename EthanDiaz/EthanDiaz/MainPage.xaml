@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EthanDiaz.MainPage">
+
+    <StackLayout>
+        <Button Text="Nueva Ubicacion" x:Name="btnmapas" Clicked="btnmapas_Clicked"/>
+        <Button Text="Ubicaciones Salvadas" x:Name="btnsalvado" Clicked="btnsalvado_Clicked"/>
+
+        <Image  Source="https://www.uth.hn/wp-content/uploads/2020/01/204-300x184.png"/>
+
+        <Label Text="Latitud"/>
+        <Entry x:Name="txtLatitud" BackgroundColor="Gray" Keyboard="Numeric" MaxLength="100"/>
+
+        <Label Text="Longitud" />
+        <Entry x:Name="txtLongitud" BackgroundColor="Gray" Keyboard="Numeric" MaxLength="100"/>
+
+        <Label Text="Descripcion" />
+        <Editor x:Name="txtDescripcion" BackgroundColor="Gray" MaxLength="100" AutoSize="TextChanges"/>
+
+        <Label Text="Descripcion Corta" />
+        <Editor x:Name="txtDescripcionCorta" BackgroundColor="Gray" MaxLength="100" AutoSize="TextChanges"/>
+
+        <Button Text="Salvar Ubicacion" x:Name="btnSalvar" Clicked="btnSalvar_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

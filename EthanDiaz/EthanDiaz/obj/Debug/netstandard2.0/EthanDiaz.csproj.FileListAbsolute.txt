@@ -1,0 +1,17 @@
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\bin\Debug\netstandard2.0\EthanDiaz.deps.json
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\bin\Debug\netstandard2.0\EthanDiaz.dll
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\bin\Debug\netstandard2.0\ref\EthanDiaz.dll
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\bin\Debug\netstandard2.0\EthanDiaz.pdb
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\obj\Debug\netstandard2.0\EthanDiaz.csproj.AssemblyReference.cache
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\obj\Debug\netstandard2.0\Lista.xaml.g.cs
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\obj\Debug\netstandard2.0\EthanDiaz.AssemblyInfoInputs.cache
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\obj\Debug\netstandard2.0\EthanDiaz.AssemblyInfo.cs
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\obj\Debug\netstandard2.0\EthanDiaz.csproj.CoreCompileInputs.cache
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\obj\Debug\netstandard2.0\EthanDiaz.dll
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\obj\Debug\netstandard2.0\ref\EthanDiaz.dll
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\obj\Debug\netstandard2.0\EthanDiaz.pdb
+C:\Users\Ethan Diaz\source\repos\EthanDiaz\EthanDiaz\EthanDiaz\obj\Debug\netstandard2.0\Page1.xaml.g.cs
